@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285988037829",
+    "project_id": "final3-fd799",
+    "storage_bucket": "final3-fd799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285988037829:android:233de4b2c8eacc363cbcac",
+        "android_client_info": {
+          "package_name": "com.cox.cum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285988037829-2fnmpchtprdi51vo8lmoqoc1krirqs5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAve1Dh-X59ipahwV8NOEWzsXi8xqxI84g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285988037829-2fnmpchtprdi51vo8lmoqoc1krirqs5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

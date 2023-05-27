@@ -1,0 +1,1009 @@
+{
+  "Fjalet": {
+    "0": {
+      "Fjala": "Mutter",
+      "Nyja": "die",
+      "Perkthini": "mother"
+    },
+    "1": {
+      "Fjala": "Vater",
+      "Nyja": "der",
+      "Perkthini": "father"
+    },
+    "2": {
+      "Fjala": "Schwester",
+      "Nyja": "die",
+      "Perkthini": "sister"
+    },
+    "3": {
+      "Fjala": "Bruder",
+      "Nyja": "der",
+      "Perkthini": "brother"
+    },
+    "4": {
+      "Fjala": "Kind",
+      "Nyja": "das",
+      "Perkthini": "child"
+    },
+    "5": {
+      "Fjala": "Tante",
+      "Nyja": "die",
+      "Perkthini": "aunt"
+    },
+    "6": {
+      "Fjala": "Onkel",
+      "Nyja": "der",
+      "Perkthini": "uncle"
+    },
+    "7": {
+      "Fjala": "Groβmutter",
+      "Nyja": "die",
+      "Perkthini": "grandmother"
+    },
+    "8": {
+      "Fjala": "Groβvater",
+      "Nyja": "der",
+      "Perkthini": "grandfather"
+    },
+    "9": {
+      "Fjala": "Cousine",
+      "Nyja": "die",
+      "Perkthini": "female cousin"
+    },
+    "10": {
+      "Fjala": "Cousin",
+      "Nyja": "der",
+      "Perkthini": "male cousin"
+    },
+    "11": {
+      "Fjala": "Freund",
+      "Nyja": "der",
+      "Perkthini": "boyfriend"
+    },
+    "12": {
+      "Fjala": "Freundin",
+      "Nyja": "die",
+      "Perkthini": "girlfriend"
+    },
+    "13": {
+      "Fjala": "Mann",
+      "Nyja": "der",
+      "Perkthini": "husband"
+    },
+    "14": {
+      "Fjala": "Frau",
+      "Nyja": "die",
+      "Perkthini": "wife"
+    },
+    "15": {
+      "Fjala": "Kollege",
+      "Nyja": "der",
+      "Perkthini": "male colleague"
+    },
+    "16": {
+      "Fjala": "Kollegin",
+      "Nyja": "die",
+      "Perkthini": "female colleague"
+    },
+    "17": {
+      "Fjala": "Partner",
+      "Nyja": "der",
+      "Perkthini": "male partner"
+    },
+    "18": {
+      "Fjala": "Partnerin",
+      "Nyja": "die",
+      "Perkthini": "female partner"
+    },
+    "19": {
+      "Fjala": "Haus",
+      "Nyja": "das",
+      "Perkthini": "house"
+    },
+    "20": {
+      "Fjala": "Bett",
+      "Nyja": "das",
+      "Perkthini": "bed"
+    },
+    "21": {
+      "Fjala": "Tisch",
+      "Nyja": "der",
+      "Perkthini": "table"
+    },
+    "22": {
+      "Fjala": "Tür",
+      "Nyja": "die",
+      "Perkthini": "door"
+    },
+    "23": {
+      "Fjala": "Fenster",
+      "Nyja": "das",
+      "Perkthini": "window"
+    },
+    "24": {
+      "Fjala": "Wand",
+      "Nyja": "die",
+      "Perkthini": "wall"
+    },
+    "25": {
+      "Fjala": "Boden",
+      "Nyja": "der",
+      "Perkthini": "floor"
+    },
+    "26": {
+      "Fjala": "Schlafzimmer",
+      "Nyja": "das",
+      "Perkthini": "bedroom"
+    },
+    "27": {
+      "Fjala": "Badezimmer",
+      "Nyja": "das",
+      "Perkthini": "bathroom"
+    },
+    "28": {
+      "Fjala": "Küche",
+      "Nyja": "die",
+      "Perkthini": "kitchen"
+    },
+    "29": {
+      "Fjala": "Wohnung",
+      "Nyja": "die",
+      "Perkthini": "living room"
+    },
+    "30": {
+      "Fjala": "Keller",
+      "Nyja": "der",
+      "Perkthini": "basement"
+    },
+    "31": {
+      "Fjala": "Couch",
+      "Nyja": "die",
+      "Perkthini": "couch"
+    },
+    "32": {
+      "Fjala": "Stuhl",
+      "Nyja": "der",
+      "Perkthini": "chair"
+    },
+    "33": {
+      "Fjala": "Waschbecken",
+      "Nyja": "das",
+      "Perkthini": "sink"
+    },
+    "34": {
+      "Fjala": "Toilette",
+      "Nyja": "die",
+      "Perkthini": "toilet"
+    },
+    "35": {
+      "Fjala": "Badewanne",
+      "Nyja": "die",
+      "Perkthini": "bathtub"
+    },
+    "36": {
+      "Fjala": "Dusche",
+      "Nyja": "die",
+      "Perkthini": "shower"
+    },
+    "37": {
+      "Fjala": "Lampe",
+      "Nyja": "die",
+      "Perkthini": "lamp"
+    },
+    "38": {
+      "Fjala": "Müll",
+      "Nyja": "der",
+      "Perkthini": "trash"
+    },
+    "39": {
+      "Fjala": "Kühlschrank",
+      "Nyja": "der",
+      "Perkthini": "refrigerator"
+    },
+    "40": {
+      "Fjala": "Herd",
+      "Nyja": "der",
+      "Perkthini": "stove"
+    },
+    "41": {
+      "Fjala": "Mikrowellenherd",
+      "Nyja": "der",
+      "Perkthini": "microwave"
+    },
+    "42": {
+      "Fjala": "Geschirrspülmaschine",
+      "Nyja": "die",
+      "Perkthini": "dishwasher"
+    },
+    "43": {
+      "Fjala": "Kabinett",
+      "Nyja": "das",
+      "Perkthini": "cabinet"
+    },
+    "44": {
+      "Fjala": "Auto",
+      "Nyja": "das",
+      "Perkthini": "car"
+    },
+    "45": {
+      "Fjala": "Lustkraftwagen",
+      "Nyja": "der",
+      "Perkthini": "truck"
+    },
+    "46": {
+      "Fjala": "Bus",
+      "Nyja": "der",
+      "Perkthini": "bus"
+    },
+    "47": {
+      "Fjala": "Flugzeug",
+      "Nyja": "das",
+      "Perkthini": "plane"
+    },
+    "48": {
+      "Fjala": "Zug",
+      "Nyja": "der",
+      "Perkthini": "train"
+    },
+    "49": {
+      "Fjala": "Boot",
+      "Nyja": "das",
+      "Perkthini": "boat"
+    },
+    "50": {
+      "Fjala": "Taxi",
+      "Nyja": "das",
+      "Perkthini": "taxi"
+    },
+    "51": {
+      "Fjala": "Schulbus",
+      "Nyja": "der",
+      "Perkthini": "school bus"
+    },
+    "52": {
+      "Fjala": "Ticket",
+      "Nyja": "das",
+      "Perkthini": "ticket"
+    },
+    "53": {
+      "Fjala": "Pass",
+      "Nyja": "der",
+      "Perkthini": "pass"
+    },
+    "54": {
+      "Fjala": "Sattelzug",
+      "Nyja": "der",
+      "Perkthini": "semi truck"
+    },
+    "55": {
+      "Fjala": "Stadt",
+      "Nyja": "die",
+      "Perkthini": "city"
+    },
+    "56": {
+      "Fjala": "Land",
+      "Nyja": "das",
+      "Perkthini": "country"
+    },
+    "57": {
+      "Fjala": "Berg",
+      "Nyja": "der",
+      "Perkthini": "mountain"
+    },
+    "58": {
+      "Fjala": "Ebenen",
+      "Nyja": "die",
+      "Perkthini": "plains"
+    },
+    "59": {
+      "Fjala": "Wüste",
+      "Nyja": "die",
+      "Perkthini": "desert"
+    },
+    "60": {
+      "Fjala": "Schule",
+      "Nyja": "die",
+      "Perkthini": "school"
+    },
+    "61": {
+      "Fjala": "Arbeit",
+      "Nyja": "die",
+      "Perkthini": "work"
+    },
+    "62": {
+      "Fjala": "Heimatland",
+      "Nyja": "das",
+      "Perkthini": "homeland"
+    },
+    "63": {
+      "Fjala": "Pilot",
+      "Nyja": "der",
+      "Perkthini": "pilot"
+    },
+    "64": {
+      "Fjala": "Pilotin",
+      "Nyja": "die",
+      "Perkthini": "pilot"
+    },
+    "65": {
+      "Fjala": "Doktor",
+      "Nyja": "der",
+      "Perkthini": "doctor"
+    },
+    "66": {
+      "Fjala": "Doktorin",
+      "Nyja": "die",
+      "Perkthini": "doctor"
+    },
+    "67": {
+      "Fjala": "Zahnarzt",
+      "Nyja": "der",
+      "Perkthini": "dentist"
+    },
+    "68": {
+      "Fjala": "Zahnarztin",
+      "Nyja": "die",
+      "Perkthini": "dentist"
+    },
+    "69": {
+      "Fjala": "Bibliothekar",
+      "Nyja": "der",
+      "Perkthini": "librarian"
+    },
+    "70": {
+      "Fjala": "Bibliothekarin",
+      "Nyja": "die",
+      "Perkthini": "librarian"
+    },
+    "71": {
+      "Fjala": "Friseur",
+      "Nyja": "der",
+      "Perkthini": "hairdresser"
+    },
+    "72": {
+      "Fjala": "Friseurin",
+      "Nyja": "die",
+      "Perkthini": "hairdresser"
+    },
+    "73": {
+      "Fjala": "Rechtsanwalt",
+      "Nyja": "der",
+      "Perkthini": "lawyer"
+    },
+    "74": {
+      "Fjala": "Rechtsanwältin",
+      "Nyja": "die",
+      "Perkthini": "lawyer"
+    },
+    "75": {
+      "Fjala": "Verkäufer",
+      "Nyja": "der",
+      "Perkthini": "salesman"
+    },
+    "76": {
+      "Fjala": "Verkäuferin",
+      "Nyja": "die",
+      "Perkthini": "woman"
+    },
+    "77": {
+      "Fjala": "Busfahrer",
+      "Nyja": "der",
+      "Perkthini": "bus driver"
+    },
+    "78": {
+      "Fjala": "Busfahrerin",
+      "Nyja": "die",
+      "Perkthini": "bus driver"
+    },
+    "79": {
+      "Fjala": "Lehrer",
+      "Nyja": "der",
+      "Perkthini": "teacher"
+    },
+    "80": {
+      "Fjala": "Lehrerin",
+      "Nyja": "die",
+      "Perkthini": "teacher"
+    },
+    "81": {
+      "Fjala": "Professor",
+      "Nyja": "der",
+      "Perkthini": "professor"
+    },
+    "82": {
+      "Fjala": "Professorin",
+      "Nyja": "die",
+      "Perkthini": "professor"
+    },
+    "83": {
+      "Fjala": "Assistent",
+      "Nyja": "der",
+      "Perkthini": "assistant"
+    },
+    "84": {
+      "Fjala": "Assistentin",
+      "Nyja": "die",
+      "Perkthini": "assistant"
+    },
+    "85": {
+      "Fjala": "Börsenmakler",
+      "Nyja": "der",
+      "Perkthini": "stock broker"
+    },
+    "86": {
+      "Fjala": "Börsenmaklerin",
+      "Nyja": "die",
+      "Perkthini": "stock broker"
+    },
+    "87": {
+      "Fjala": "Vermarkter",
+      "Nyja": "der",
+      "Perkthini": "marketer"
+    },
+    "88": {
+      "Fjala": "Vermarkterin",
+      "Nyja": "die",
+      "Perkthini": "marketer"
+    },
+    "89": {
+      "Fjala": "Versicherungsagent",
+      "Nyja": "der",
+      "Perkthini": "insurance agent"
+    },
+    "90": {
+      "Fjala": "Verischerungsagentin",
+      "Nyja": "die",
+      "Perkthini": "insurance agent"
+    },
+    "91": {
+      "Fjala": "LKW-Fahrer",
+      "Nyja": "der",
+      "Perkthini": "truck driver"
+    },
+    "92": {
+      "Fjala": "LKW-Fahrerin",
+      "Nyja": "die",
+      "Perkthini": "truck driver"
+    },
+    "93": {
+      "Fjala": "Schriftsteller",
+      "Nyja": "der",
+      "Perkthini": "writer"
+    },
+    "94": {
+      "Fjala": "Schriftstellerin",
+      "Nyja": "die",
+      "Perkthini": "writer"
+    },
+    "95": {
+      "Fjala": "Redakteur",
+      "Nyja": "der",
+      "Perkthini": "editor"
+    },
+    "96": {
+      "Fjala": "Redakteurin",
+      "Nyja": "die",
+      "Perkthini": "editor"
+    },
+    "97": {
+      "Fjala": "Journalist",
+      "Nyja": "der",
+      "Perkthini": "journalist"
+    },
+    "98": {
+      "Fjala": "Journalistin",
+      "Nyja": "die",
+      "Perkthini": "journalist"
+    },
+    "99": {
+      "Fjala": "Mechaniker",
+      "Nyja": "der",
+      "Perkthini": "machinist"
+    },
+    "100": {
+      "Fjala": "Mechanikerin",
+      "Nyja": "die",
+      "Perkthini": "machinist"
+    },
+    "101": {
+      "Fjala": "Zimmermann",
+      "Nyja": "der",
+      "Perkthini": "carpenter"
+    },
+    "102": {
+      "Fjala": "Zimmerfrau",
+      "Nyja": "die",
+      "Perkthini": "carpenter"
+    },
+    "103": {
+      "Fjala": "Computerprogrammierer",
+      "Nyja": "der",
+      "Perkthini": "computer programmer"
+    },
+    "104": {
+      "Fjala": "Computerprogrammiererin",
+      "Nyja": "die",
+      "Perkthini": "computer programmer"
+    },
+    "105": {
+      "Fjala": "persönliche",
+      "Nyja": "der",
+      "Perkthini": "personal trainer"
+    },
+    "106": {
+      "Fjala": "persönliche",
+      "Nyja": "die",
+      "Perkthini": "personal trainer"
+    },
+    "107": {
+      "Fjala": "Vorgesetzte",
+      "Nyja": "der",
+      "Perkthini": "supervisor"
+    },
+    "108": {
+      "Fjala": "Vorgesetzterin",
+      "Nyja": "die",
+      "Perkthini": "supervisor"
+    },
+    "109": {
+      "Fjala": "Chef",
+      "Nyja": "der",
+      "Perkthini": "boss"
+    },
+    "110": {
+      "Fjala": "Chefin",
+      "Nyja": "die",
+      "Perkthini": "boss"
+    },
+    "111": {
+      "Fjala": "Pfleger",
+      "Nyja": "der",
+      "Perkthini": "caregiver"
+    },
+    "112": {
+      "Fjala": "Pflegerin",
+      "Nyja": "die",
+      "Perkthini": "caregiver"
+    },
+    "113": {
+      "Fjala": "Angestellter",
+      "Nyja": "der",
+      "Perkthini": "clerk"
+    },
+    "114": {
+      "Fjala": "Angestellte",
+      "Nyja": "die",
+      "Perkthini": "clerk"
+    },
+    "115": {
+      "Fjala": "Detektiv",
+      "Nyja": "der",
+      "Perkthini": "detective"
+    },
+    "116": {
+      "Fjala": "Detektivin",
+      "Nyja": "die",
+      "Perkthini": "detective"
+    },
+    "117": {
+      "Fjala": "Polizeibeamte",
+      "Nyja": "der",
+      "Perkthini": "police officer"
+    },
+    "118": {
+      "Fjala": "Polizeibeamtin",
+      "Nyja": "die",
+      "Perkthini": "police officer"
+    },
+    "119": {
+      "Fjala": "Feuerwehrmann",
+      "Nyja": "der",
+      "Perkthini": "firefighter"
+    },
+    "120": {
+      "Fjala": "Feuerwehrfrau",
+      "Nyja": "die",
+      "Perkthini": "firefighter"
+    },
+    "121": {
+      "Fjala": "Frühstuck",
+      "Nyja": "das",
+      "Perkthini": "breakfast"
+    },
+    "122": {
+      "Fjala": "Mittagessen",
+      "Nyja": "das",
+      "Perkthini": "lunch"
+    },
+    "123": {
+      "Fjala": "Abendessen",
+      "Nyja": "das",
+      "Perkthini": "dinner"
+    },
+    "124": {
+      "Fjala": "Snack",
+      "Nyja": "der",
+      "Perkthini": "snack"
+    },
+    "125": {
+      "Fjala": "Dessert",
+      "Nyja": "das",
+      "Perkthini": "dessert"
+    },
+    "126": {
+      "Fjala": "Kuchen",
+      "Nyja": "der",
+      "Perkthini": "cake"
+    },
+    "127": {
+      "Fjala": "Brot",
+      "Nyja": "das",
+      "Perkthini": "bread"
+    },
+    "128": {
+      "Fjala": "Milch",
+      "Nyja": "die",
+      "Perkthini": "milk"
+    },
+    "129": {
+      "Fjala": "Ei",
+      "Nyja": "das",
+      "Perkthini": "egg"
+    },
+    "130": {
+      "Fjala": "Mehl",
+      "Nyja": "das",
+      "Perkthini": "flour"
+    },
+    "131": {
+      "Fjala": "Zucker",
+      "Nyja": "der",
+      "Perkthini": "sugar"
+    },
+    "132": {
+      "Fjala": "Fleisch",
+      "Nyja": "das",
+      "Perkthini": "meat"
+    },
+    "133": {
+      "Fjala": "Truthahn",
+      "Nyja": "der",
+      "Perkthini": "turkey"
+    },
+    "134": {
+      "Fjala": "Schweinefleisch",
+      "Nyja": "das",
+      "Perkthini": "pork"
+    },
+    "135": {
+      "Fjala": "Huhn",
+      "Nyja": "das",
+      "Perkthini": "chicken"
+    },
+    "136": {
+      "Fjala": "Tofu",
+      "Nyja": "der",
+      "Perkthini": "tofu"
+    },
+    "137": {
+      "Fjala": "Salat",
+      "Nyja": "der",
+      "Perkthini": "salad"
+    },
+    "138": {
+      "Fjala": "Pizza",
+      "Nyja": "die",
+      "Perkthini": "pizza"
+    },
+    "139": {
+      "Fjala": "Cracker",
+      "Nyja": "die",
+      "Perkthini": "cracker"
+    },
+    "140": {
+      "Fjala": "Müsli",
+      "Nyja": "das",
+      "Perkthini": "cereal"
+    },
+    "141": {
+      "Fjala": "Haferflocken",
+      "Nyja": "das",
+      "Perkthini": "oatmeal"
+    },
+    "142": {
+      "Fjala": "Pfannkuchen",
+      "Nyja": "die",
+      "Perkthini": "pancakes"
+    },
+    "143": {
+      "Fjala": "Speck",
+      "Nyja": "der",
+      "Perkthini": "bacon"
+    },
+    "144": {
+      "Fjala": "Schokolade",
+      "Nyja": "die",
+      "Perkthini": "chocolate"
+    },
+    "145": {
+      "Fjala": "Obst",
+      "Nyja": "das",
+      "Perkthini": "fruit"
+    },
+    "146": {
+      "Fjala": "Gemüse",
+      "Nyja": "das",
+      "Perkthini": "vegetable"
+    },
+    "147": {
+      "Fjala": "Aprfel",
+      "Nyja": "der",
+      "Perkthini": "apple"
+    },
+    "148": {
+      "Fjala": "Karotte",
+      "Nyja": "die",
+      "Perkthini": "carrot"
+    },
+    "149": {
+      "Fjala": "Birne",
+      "Nyja": "die",
+      "Perkthini": "pear"
+    },
+    "150": {
+      "Fjala": "Banane",
+      "Nyja": "die",
+      "Perkthini": "banana"
+    },
+    "151": {
+      "Fjala": "Tomate",
+      "Nyja": "die",
+      "Perkthini": "tomato"
+    },
+    "152": {
+      "Fjala": "Kartoffel",
+      "Nyja": "die",
+      "Perkthini": "potato"
+    },
+    "153": {
+      "Fjala": "Sellerie",
+      "Nyja": "der",
+      "Perkthini": "celery"
+    },
+    "154": {
+      "Fjala": "Brokkoli",
+      "Nyja": "der",
+      "Perkthini": "broccoli"
+    },
+    "155": {
+      "Fjala": "Zwiebel",
+      "Nyja": "die",
+      "Perkthini": "onion"
+    },
+    "156": {
+      "Fjala": "Gurke",
+      "Nyja": "die",
+      "Perkthini": "cucumber"
+    },
+    "157": {
+      "Fjala": "Zucchini",
+      "Nyja": "die",
+      "Perkthini": "zucchini"
+    },
+    "158": {
+      "Fjala": "Pfirsich",
+      "Nyja": "der",
+      "Perkthini": "peach"
+    },
+    "159": {
+      "Fjala": "Nuss",
+      "Nyja": "die",
+      "Perkthini": "nut"
+    },
+    "160": {
+      "Fjala": "Rosenkohl",
+      "Nyja": "der",
+      "Perkthini": "brussel sprouts"
+    },
+    "161": {
+      "Fjala": "Lasagna",
+      "Nyja": "die",
+      "Perkthini": "lasagna"
+    },
+    "162": {
+      "Fjala": "Spaghetti",
+      "Nyja": "die",
+      "Perkthini": "spaghetti"
+    },
+    "163": {
+      "Fjala": "Makkaroni",
+      "Nyja": "die",
+      "Perkthini": "macaroni"
+    },
+    "164": {
+      "Fjala": "Erdnussbutter",
+      "Nyja": "die",
+      "Perkthini": "peanut butter"
+    },
+    "165": {
+      "Fjala": "Gelee",
+      "Nyja": "das",
+      "Perkthini": "jelly"
+    },
+    "166": {
+      "Fjala": "Sandwich",
+      "Nyja": "das",
+      "Perkthini": "sandwich"
+    },
+    "167": {
+      "Fjala": "Burger",
+      "Nyja": "der",
+      "Perkthini": "burger"
+    },
+    "168": {
+      "Fjala": "Pommes",
+      "Nyja": "die",
+      "Perkthini": "fries"
+    },
+    "169": {
+      "Fjala": "Suppe",
+      "Nyja": "die",
+      "Perkthini": "soup"
+    },
+    "170": {
+      "Fjala": "Fisch",
+      "Nyja": "der",
+      "Perkthini": "fish"
+    },
+    "171": {
+      "Fjala": "Reis",
+      "Nyja": "der",
+      "Perkthini": "rice"
+    },
+    "172": {
+      "Fjala": "Bohnen",
+      "Nyja": "die",
+      "Perkthini": "beans"
+    },
+    "173": {
+      "Fjala": "Burrito",
+      "Nyja": "der",
+      "Perkthini": "burrito"
+    },
+    "174": {
+      "Fjala": "Schinken",
+      "Nyja": "der",
+      "Perkthini": "ham"
+    },
+    "175": {
+      "Fjala": "Pasta",
+      "Nyja": "die",
+      "Perkthini": "pasta"
+    },
+    "176": {
+      "Fjala": "Hund",
+      "Nyja": "der",
+      "Perkthini": "dog"
+    },
+    "177": {
+      "Fjala": "Katze",
+      "Nyja": "die",
+      "Perkthini": "cat"
+    },
+    "178": {
+      "Fjala": "Fisch",
+      "Nyja": "der",
+      "Perkthini": "fish"
+    },
+    "179": {
+      "Fjala": "Vogel",
+      "Nyja": "der",
+      "Perkthini": "bird"
+    },
+    "180": {
+      "Fjala": "Schlange",
+      "Nyja": "die",
+      "Perkthini": "snake"
+    },
+    "181": {
+      "Fjala": "Maus",
+      "Nyja": "die",
+      "Perkthini": "mouse"
+    },
+    "182": {
+      "Fjala": "Rennmaus",
+      "Nyja": "die",
+      "Perkthini": "gerbil"
+    },
+    "183": {
+      "Fjala": "Hamster",
+      "Nyja": "der",
+      "Perkthini": "hamster"
+    },
+    "184": {
+      "Fjala": "Frettchen",
+      "Nyja": "das",
+      "Perkthini": "ferret"
+    },
+    "185": {
+      "Fjala": "Hemd",
+      "Nyja": "das",
+      "Perkthini": "shirt"
+    },
+    "186": {
+      "Fjala": "Hose",
+      "Nyja": "die",
+      "Perkthini": "pants"
+    },
+    "187": {
+      "Fjala": "Mantel",
+      "Nyja": "der",
+      "Perkthini": "coat"
+    },
+    "188": {
+      "Fjala": "Socken",
+      "Nyja": "die",
+      "Perkthini": "socks"
+    },
+    "189": {
+      "Fjala": "Schuhe",
+      "Nyja": "die",
+      "Perkthini": "shoes"
+    },
+    "190": {
+      "Fjala": "Shorts",
+      "Nyja": "die",
+      "Perkthini": "shorts"
+    },
+    "191": {
+      "Fjala": "Unterwäsche",
+      "Nyja": "die",
+      "Perkthini": "underwear"
+    },
+    "192": {
+      "Fjala": "Bluse",
+      "Nyja": "die",
+      "Perkthini": "blouse"
+    },
+    "193": {
+      "Fjala": "Büstenhalter",
+      "Nyja": "der",
+      "Perkthini": "bra"
+    },
+    "194": {
+      "Fjala": "Jeans",
+      "Nyja": "die",
+      "Perkthini": "jeans"
+    },
+    "195": {
+      "Fjala": "Gürtel",
+      "Nyja": "der",
+      "Perkthini": "belt"
+    },
+    "196": {
+      "Fjala": "Hut",
+      "Nyja": "der",
+      "Perkthini": "hat"
+    },
+    "197": {
+      "Fjala": "Krawatte",
+      "Nyja": "die",
+      "Perkthini": "tie"
+    },
+    "198": {
+      "Fjala": "Kleid",
+      "Nyja": "das",
+      "Perkthini": "dress"
+    },
+    "199": {
+      "Fjala": "Rock",
+      "Nyja": "der",
+      "Perkthini": "skirt"
+    },
+    "200": {
+      "Fjala": "Stiefel",
+      "Nyja": "die",
+      "Perkthini": "boots"
+    }
+  }
+}
